@@ -1,0 +1,8 @@
+let numero = 200
+while (numero <=400){
+if (numero % 2 == 0){ 
+    console.log (numero);
+
+}
+numero = numero +1;
+}
