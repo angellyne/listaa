@@ -1,0 +1,6 @@
+let numero = 0
+while (numero <=100){
+    if (numero % 2 == 0){
+}
+numero = numero +1;
+}
